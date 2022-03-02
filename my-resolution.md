@@ -1,8 +1,19 @@
-#Materi 
-##Mohammad Zaki Mushoddaq
-###Fronted Developer
-###SEO
 
-#Career Plan
-##Mohammad Zaki Mushoddaq
-###Game Development
+# Materi
+
+## Samba
+
+### Git
+
+...
+
+### Frontend
+
+...
+
+# Career Plan
+
+## Samba
+
+### Fullstack Developer
+
